@@ -1,5 +1,5 @@
 FROM node:14-alpine
-LABEL Author Carmine DiMascio <cdimascio@gmail.com>
+LABEL ANTONIO LEONARDO ANJOS DOS SANTOS <leoanrdo.anjos@maxxidata.com>
 
 RUN mkdir -p /usr/src/app
 WORKDIR /usr/src/app
